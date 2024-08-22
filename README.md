@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Detection
+# Credit Card Fraud Detection
 
 
 This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset used for this project is highly imbalanced, with a very small percentage of fraudulent transactions. The project demonstrates the use of undersampling, oversampling with SMOTE, and Logistic Regression to address the imbalance and build an effective predictive model.
