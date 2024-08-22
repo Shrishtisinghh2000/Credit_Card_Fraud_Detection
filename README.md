@@ -49,9 +49,13 @@ Target: Class (0 for legal transactions, 1 for fraudulent transactions).
 To run this project, you need the following dependencies:
 
 Python 3.x
+
 pandas
+
 scikit-learn
+
 imbalanced-learn (for SMOTE)
+
 Jupyter Notebook (optional, for running the notebook)
 
 
